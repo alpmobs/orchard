@@ -90,6 +90,22 @@ class LatestItems extends Component {
           "This exclusive cookbook gives you all the know-how you need. We've designed it to make sure you get the most out of our products - and the best out of your food.",
         link: "#",
         linKTitle: "READ MORE"
+      },
+      {
+        id: 4,
+        image: {
+          srcSet: "./assets/images/component-02/Image-03.jpg",
+          srcSet2x: "./assets/images/component-02/Image-03@2x.jpg",
+          media: "(max-width: 380px)",
+          media2x: "(min-width: 381px)",
+          alt: "Component 2 - Image 3",
+          src: "./assets/images/component-02/Image-03.jpg"
+        },
+        title: "Taking Taste Further",
+        description:
+          "This exclusive cookbook gives you all the know-how you need. We've designed it to make sure you get the most out of our products - and the best out of your food.",
+        link: "#",
+        linKTitle: "READ MORE"
       }
     ],
     loading: true
